@@ -6,9 +6,9 @@ This project compares the performance of two DNA motif discovery tools, MEME and
 
 # Project Goals
 
-Analyze MEME and Weeder for motif discovery in Mus musculus sequences
-Compare performance based on computational efficiency and accuracy
-Evaluate motif similarity with known JASPAR motifs
+-Analyze MEME and Weeder for motif discovery in Mus musculus sequences
+-Compare performance based on computational efficiency and accuracy
+-Evaluate motif similarity with known JASPAR motifs
 
 # Datasets Used
 
